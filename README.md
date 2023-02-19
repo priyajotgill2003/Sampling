@@ -4,14 +4,22 @@
 This repository contains solution to sampling assignment for UCS654.
 
 List of tasks:
+
  Download the dataset
+ 
  Convert it into balanced dataset
+ 
  Create 5 samples
+ 
  Apply 5 different sampling techniques on five different ML models
+ 
 Discussion:
+
 The dataset used is highly imbalanced. The number of samples in the minority class is only 1.167% of the total number of samples. I used the SMOTE algorithm to oversample the minority class.
 
+
 For sampling, I have used the following different techniques:
+
 
 Random Sampling
 Stratified Sampling
