@@ -5,7 +5,7 @@ This repository contains solution to sampling assignment for UCS654.
 
 List of tasks:
 
- - Download the dataset
+ - Download the (dataset)[https://github.com/priyajotgill2003/Sampling/blob/main/Creditcard_data.csv]
  
  - Convert it into balanced dataset
  
