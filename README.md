@@ -40,5 +40,6 @@ The accuracy of these models on test set is as follows:
 
 <img width="767" alt="image" src="https://user-images.githubusercontent.com/72308930/219965320-b8c5add3-6c2e-4425-8e12-55b1e0f34d58.png">
 
-##Conclusion
+## Conclusion:
+
 Clearly, Random Forest Classifier consistently yields the highest accuracy across all sampling techniques.
