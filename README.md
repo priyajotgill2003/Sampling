@@ -5,13 +5,13 @@ This repository contains solution to sampling assignment for UCS654.
 
 List of tasks:
 
- Download the dataset
+ -Download the dataset
  
- Convert it into balanced dataset
+ -Convert it into balanced dataset
  
- Create 5 samples
+ -Create 5 samples
  
- Apply 5 different sampling techniques on five different ML models
+ -Apply 5 different sampling techniques on five different ML models
  
 Discussion:
 
@@ -21,11 +21,11 @@ The dataset used is highly imbalanced. The number of samples in the minority cla
 For sampling, I have used the following different techniques:
 
 
-Random Sampling
-Stratified Sampling
-Systematic Sampling
-Smote Sampling
-Convience Sampling
+1. Random Sampling
+2. Stratified Sampling
+3. Systematic Sampling
+4. Smote Sampling
+5. Convience Sampling
 
 All five samples were then trained on the following ML models:
 1.Logistic Regression
