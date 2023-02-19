@@ -5,13 +5,13 @@ This repository contains solution to sampling assignment for UCS654.
 
 List of tasks:
 
- -Download the dataset
+ - Download the dataset
  
- -Convert it into balanced dataset
+ - Convert it into balanced dataset
  
- -Create 5 samples
+ - Create 5 samples
  
- -Apply 5 different sampling techniques on five different ML models
+ - Apply 5 different sampling techniques on five different ML models
  
 Discussion:
 
