@@ -1,7 +1,7 @@
 # Sampling
 
 
-This repository contains solution to sampling assignment for UCS654.
+This repository contains the solution to the sampling assignment for UCS654.
 
 List of tasks:
 
